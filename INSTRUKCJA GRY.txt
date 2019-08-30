@@ -1,0 +1,40 @@
+------------------------------------
+GRA W ŻYCIE 
+------------------------------------
+Gra jest automatem. Wystarczy wprowadzić wartości do pliku settings.txt według poniższego schematu. 
+
+
+3				// pierwsza linia jest liczbą jaka ma być plansza wpisanie 3 spowoduje wygenerowanie planszy 3x3 
+111				// następnie wpisujemy pierwszy rząd planszy 3x3. Jeżeli wpiszemy 1- żywa komórka 0- martwa
+000
+111				// Ważne aby była odpowiednia liczba wierszy i kolumn taka jaką zadeklarowaliśmy w pierwszej linii pliku.
+
+
+np. 
+
+4
+1010
+1010
+1010
+1010
+
+1 oraz 0 są odwzorowaniem kmórek na planszy. 
+
+np.
+
+10
+1111111111
+0000000000
+1111111111
+0000000000
+1111111111
+0000000000
+1111111111
+0000000000
+1111111111
+0000000000
+1111111111
+0000000000
+------------------------------------
+© copyright by Piotr Lewandowski
+------------------------------------
