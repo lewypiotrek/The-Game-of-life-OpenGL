@@ -7,4 +7,4 @@ Rules:
   Any dead cell with three live neighbours becomes a live cell.
   All other live cells die in the next generation. Similarly, all other dead cells stay dead.
   
-  I wrote this app when I was on the first year of study, so please be understanding :)
+  I wrote this app when I was on the first year of study(now I'm on 3), so please be understanding :)
